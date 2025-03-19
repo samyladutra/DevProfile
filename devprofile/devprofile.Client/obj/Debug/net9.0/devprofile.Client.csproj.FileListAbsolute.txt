@@ -1042,10 +1042,10 @@ C:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Cl
 C:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\refint\devprofile.Client.dll
 C:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\devprofile.Client.pdb
 C:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\ref\devprofile.Client.dll
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.zno7l7nh1o.pdb
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.wysqn54ipk.wasm
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.zno7l7nh1o.pdb.gz
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.wysqn54ipk.wasm.gz
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\j21z66tmom-wysqn54ipk.gz
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\4o3ez1ngui-zno7l7nh1o.gz
-c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\2jprz3vgkk-erc6j7q986.gz
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.cwzso2j0ac.pdb
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.e1v4qo2chc.wasm
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.cwzso2j0ac.pdb.gz
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\bin\Debug\net9.0\wwwroot\_framework\devprofile.Client.e1v4qo2chc.wasm.gz
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\j21z66tmom-e1v4qo2chc.gz
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\4o3ez1ngui-cwzso2j0ac.gz
+c:\Users\samyl\OneDrive\Documentos\workspace\DevProfile\devprofile\devprofile.Client\obj\Debug\net9.0\compressed\2jprz3vgkk-v5drj85kjm.gz

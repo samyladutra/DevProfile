@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e3IkrC7AHFHi+6P+ffq65r2aWpFIVe8ZnEpL8HM/o1k=",
+  "Hash": "0Y57Rj5aOIYUzAdQUSrmUArBDLjZPnj24n3NLHdwdys=",
   "Source": "devprofile",
   "BasePath": "_content/devprofile",
   "Mode": "Default",
@@ -92,8 +92,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "erc6j7q986",
-      "Integrity": "GtXtAinz4ft7s4huZiTOTDvZRRs/HSg+LaKE0Aj8HVc=",
+      "Fingerprint": "v5drj85kjm",
+      "Integrity": "Y94i8mt+JaJSh9xVj6YvxqBEDOZbidssmC0jWWunasI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -134,8 +134,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "zno7l7nh1o",
-      "Integrity": "n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs=",
+      "Fingerprint": "cwzso2j0ac",
+      "Integrity": "RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.pdb"
@@ -155,8 +155,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "wysqn54ipk",
-      "Integrity": "KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE=",
+      "Fingerprint": "e1v4qo2chc",
+      "Integrity": "IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.wasm"
@@ -4803,7 +4803,7 @@
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2hun2am9b2-zc0ilizti4.gz"
     },
     {
-      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-erc6j7q986.gz",
+      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-v5drj85kjm.gz",
       "SourceId": "devprofile.Client",
       "SourceType": "Project",
       "ContentRoot": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -4817,11 +4817,11 @@
       "RelatedAsset": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "h5wmirtrfe",
-      "Integrity": "u4XGToNdf72rZa4103KN95ciCg+lOjpHjnalWT7GWjM=",
+      "Fingerprint": "kgnet84xn0",
+      "Integrity": "REsANEONXgcCwpykcU3RjOi0B2lbCO5g0envvy/AbS0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-erc6j7q986.gz"
+      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-v5drj85kjm.gz"
     },
     {
       "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2l9h9fxs08-pxvni61c5f.gz",
@@ -4992,12 +4992,12 @@
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4nz569bv72-lfu7j35m59.gz"
     },
     {
-      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz",
+      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz",
       "SourceId": "devprofile.Client",
       "SourceType": "Project",
       "ContentRoot": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/devprofile.Client#[.{fingerprint=zno7l7nh1o}]!.pdb.gz",
+      "RelativePath": "_framework/devprofile.Client#[.{fingerprint=cwzso2j0ac}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5006,11 +5006,11 @@
       "RelatedAsset": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mown02g8er",
-      "Integrity": "Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo=",
+      "Fingerprint": "kgmws420rz",
+      "Integrity": "THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz"
+      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz"
     },
     {
       "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4rsxm0v1rt-pia6qfjdvy.gz",
@@ -6714,12 +6714,12 @@
       "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\izx709zoji-wtgp5mxw1c.gz"
     },
     {
-      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz",
+      "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz",
       "SourceId": "devprofile.Client",
       "SourceType": "Project",
       "ContentRoot": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/devprofile.Client#[.{fingerprint=wysqn54ipk}]!.wasm.gz",
+      "RelativePath": "_framework/devprofile.Client#[.{fingerprint=e1v4qo2chc}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6728,11 +6728,11 @@
       "RelatedAsset": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c046wu4f8n",
-      "Integrity": "NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y=",
+      "Fingerprint": "fz5dmmyc75",
+      "Integrity": "dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz"
+      "OriginalItemSpec": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz"
     },
     {
       "Identity": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j3chxhk34z-auqecwqpl6.gz",
@@ -9328,28 +9328,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GtXtAinz4ft7s4huZiTOTDvZRRs/HSg+LaKE0Aj8HVc=\""
+          "Value": "\"Y94i8mt+JaJSh9xVj6YvxqBEDOZbidssmC0jWWunasI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GtXtAinz4ft7s4huZiTOTDvZRRs/HSg+LaKE0Aj8HVc="
+          "Value": "sha256-Y94i8mt+JaJSh9xVj6YvxqBEDOZbidssmC0jWWunasI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-erc6j7q986.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-v5drj85kjm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079795723"
+          "Quality": "0.000079814830"
         }
       ],
       "ResponseHeaders": [
@@ -9367,15 +9367,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12531"
+          "Value": "12528"
         },
         {
           "Name": "ETag",
-          "Value": "\"u4XGToNdf72rZa4103KN95ciCg+lOjpHjnalWT7GWjM=\""
+          "Value": "\"REsANEONXgcCwpykcU3RjOi0B2lbCO5g0envvy/AbS0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:01:09 GMT"
+          "Value": "Wed, 19 Mar 2025 13:49:29 GMT"
         },
         {
           "Name": "Vary",
@@ -9387,19 +9387,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GtXtAinz4ft7s4huZiTOTDvZRRs/HSg+LaKE0Aj8HVc=\""
+          "Value": "W/\"Y94i8mt+JaJSh9xVj6YvxqBEDOZbidssmC0jWWunasI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GtXtAinz4ft7s4huZiTOTDvZRRs/HSg+LaKE0Aj8HVc="
+          "Value": "sha256-Y94i8mt+JaJSh9xVj6YvxqBEDOZbidssmC0jWWunasI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-erc6j7q986.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\2jprz3vgkk-v5drj85kjm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9416,7 +9416,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12531"
+          "Value": "12528"
         },
         {
           "Name": "Content-Type",
@@ -9424,11 +9424,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4XGToNdf72rZa4103KN95ciCg+lOjpHjnalWT7GWjM=\""
+          "Value": "\"REsANEONXgcCwpykcU3RjOi0B2lbCO5g0envvy/AbS0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:01:09 GMT"
+          "Value": "Wed, 19 Mar 2025 13:49:29 GMT"
         },
         {
           "Name": "Vary",
@@ -9438,7 +9438,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u4XGToNdf72rZa4103KN95ciCg+lOjpHjnalWT7GWjM="
+          "Value": "sha256-REsANEONXgcCwpykcU3RjOi0B2lbCO5g0envvy/AbS0="
         }
       ]
     },
@@ -9580,7 +9580,7 @@
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.pdb",
+      "Route": "_framework/devprofile.Client.cwzso2j0ac.pdb",
       "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9590,11 +9590,11 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
-          "Value": "29008"
+          "Value": "29508"
         },
         {
           "Name": "Content-Type",
@@ -9602,28 +9602,36 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs=\""
+          "Value": "\"RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:24 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "cwzso2j0ac"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs="
+          "Value": "sha256-RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/devprofile.Client.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.pdb",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz",
+      "Route": "_framework/devprofile.Client.cwzso2j0ac.pdb",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000045212044"
+          "Quality": "0.000044265415"
         }
       ],
       "ResponseHeaders": [
@@ -9633,7 +9641,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -9641,15 +9649,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22117"
+          "Value": "22590"
         },
         {
           "Name": "ETag",
-          "Value": "\"Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo=\""
+          "Value": "\"THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -9661,19 +9669,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs=\""
+          "Value": "W/\"RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "cwzso2j0ac"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs="
+          "Value": "sha256-RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/devprofile.Client.pdb"
         }
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.pdb.gz",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz",
+      "Route": "_framework/devprofile.Client.cwzso2j0ac.pdb.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9682,7 +9698,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -9690,7 +9706,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22117"
+          "Value": "22590"
         },
         {
           "Name": "Content-Type",
@@ -9698,11 +9714,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo=\""
+          "Value": "\"THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -9711,150 +9727,21 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "cwzso2j0ac"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo="
+          "Value": "sha256-THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/devprofile.Client.pdb.gz"
         }
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.wasm",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "29973"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:24 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/devprofile.Client.wasm",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000082196285"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12165"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/devprofile.Client.wasm.gz",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12165"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/devprofile.Client.wysqn54ipk.wasm",
+      "Route": "_framework/devprofile.Client.e1v4qo2chc.wasm",
       "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9868,7 +9755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29973"
+          "Value": "35093"
         },
         {
           "Name": "Content-Type",
@@ -9876,21 +9763,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE=\""
+          "Value": "\"IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:24 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wysqn54ipk"
+          "Value": "e1v4qo2chc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE="
+          "Value": "sha256-IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414="
         },
         {
           "Name": "label",
@@ -9899,13 +9786,13 @@
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.wysqn54ipk.wasm",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz",
+      "Route": "_framework/devprofile.Client.e1v4qo2chc.wasm",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000082196285"
+          "Quality": "0.000073367572"
         }
       ],
       "ResponseHeaders": [
@@ -9923,15 +9810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12165"
+          "Value": "13629"
         },
         {
           "Name": "ETag",
-          "Value": "\"NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y=\""
+          "Value": "\"dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -9943,17 +9830,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE=\""
+          "Value": "W/\"IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wysqn54ipk"
+          "Value": "e1v4qo2chc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KICbr3mitcNyvK3BGpTe9sBGkIIXFg/678bHV6Yx1bE="
+          "Value": "sha256-IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414="
         },
         {
           "Name": "label",
@@ -9962,8 +9849,8 @@
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.wysqn54ipk.wasm.gz",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-wysqn54ipk.gz",
+      "Route": "_framework/devprofile.Client.e1v4qo2chc.wasm.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9980,7 +9867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12165"
+          "Value": "13629"
         },
         {
           "Name": "Content-Type",
@@ -9988,11 +9875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y=\""
+          "Value": "\"dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -10002,11 +9889,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wysqn54ipk"
+          "Value": "e1v4qo2chc"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NE7ij0pn31Wm1iePF2dv0XuYHbJhYXZsoKHs9hEDW8Y="
+          "Value": "sha256-dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g="
         },
         {
           "Name": "label",
@@ -10015,7 +9902,7 @@
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.zno7l7nh1o.pdb",
+      "Route": "_framework/devprofile.Client.pdb",
       "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -10025,11 +9912,11 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
-          "Value": "29008"
+          "Value": "29508"
         },
         {
           "Name": "Content-Type",
@@ -10037,36 +9924,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs=\""
+          "Value": "\"RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:24 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:01 GMT"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "zno7l7nh1o"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/devprofile.Client.pdb"
+          "Value": "sha256-RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs="
         }
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.zno7l7nh1o.pdb",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz",
+      "Route": "_framework/devprofile.Client.pdb",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000045212044"
+          "Quality": "0.000044265415"
         }
       ],
       "ResponseHeaders": [
@@ -10076,7 +9955,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10084,15 +9963,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22117"
+          "Value": "22590"
         },
         {
           "Name": "ETag",
-          "Value": "\"Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo=\""
+          "Value": "\"THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -10104,27 +9983,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs=\""
+          "Value": "W/\"RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "zno7l7nh1o"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-n9mnHrzruiYYmlO9By0UdZkdzMeuA7WY5HI/aHNpgxs="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/devprofile.Client.pdb"
+          "Value": "sha256-RMvm3pm93e/VteDSizXytFvTkspM40GM06dF/fJL9Qs="
         }
       ]
     },
     {
-      "Route": "_framework/devprofile.Client.zno7l7nh1o.pdb.gz",
-      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-zno7l7nh1o.gz",
+      "Route": "_framework/devprofile.Client.pdb.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\4o3ez1ngui-cwzso2j0ac.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10133,7 +10004,7 @@
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10141,7 +10012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22117"
+          "Value": "22590"
         },
         {
           "Name": "Content-Type",
@@ -10149,11 +10020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo=\""
+          "Value": "\"THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Mar 2025 13:15:26 GMT"
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
         },
         {
           "Name": "Vary",
@@ -10162,16 +10033,145 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "zno7l7nh1o"
+          "Name": "integrity",
+          "Value": "sha256-THqblnZhoo69SnhmnBTh+wGFRHdGmKknrpgDXXDaTQE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/devprofile.Client.wasm",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\devprofile.Client.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
         },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 13:54:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nk1TbywRskAwrCvUjQxJYkO/4fnGnq55qhCSmDro9Vo="
+          "Value": "sha256-IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/devprofile.Client.wasm",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000073367572"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
         },
         {
-          "Name": "label",
-          "Value": "_framework/devprofile.Client.pdb.gz"
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13629"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IlB3JMKXLKFKPjX8rr1FAw+VXsPsddHnplhsArH6414="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/devprofile.Client.wasm.gz",
+      "AssetFile": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\obj\\Debug\\net9.0\\compressed\\j21z66tmom-e1v4qo2chc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 13:54:03 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dZJyjXyE9b3pOuQNPI7MrPLQ+1sOE4oKsoplsbb5u2g="
         }
       ]
     },
