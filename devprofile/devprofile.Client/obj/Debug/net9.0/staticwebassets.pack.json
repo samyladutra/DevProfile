@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "c:\\Users\\samyl\\OneDrive\\Documentos\\workspace\\DevProfile\\devprofile\\devprofile.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.devprofile.Client.props",
+      "PackagePath": "build\\devprofile.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.devprofile.Client.props",
+      "PackagePath": "buildMultiTargeting\\devprofile.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.devprofile.Client.props",
+      "PackagePath": "buildTransitive\\devprofile.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.devprofile.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.devprofile.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,7 +1,11 @@
+using MudBlazor.Services;
 using devprofile.Client.Pages;
 using devprofile.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Add MudBlazor services
+builder.Services.AddMudServices();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -23,9 +27,10 @@ else
 
 app.UseHttpsRedirection();
 
-app.UseStaticFiles();
+
 app.UseAntiforgery();
 
+app.MapStaticAssets();
 app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(devprofile.Client._Imports).Assembly);
