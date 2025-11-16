@@ -1,6 +1,7 @@
 # Build
 bin/
 bin/**
+**/bin/**
 obj/
 obj/**
 **/obj/**
