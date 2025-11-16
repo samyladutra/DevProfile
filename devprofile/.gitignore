@@ -1,0 +1,32 @@
+# Build
+bin/
+bin/**
+obj/
+obj/**
+**/obj/**
+out/
+
+# Ignore generated files like AssemblyInfo
+obj/**/AssemblyInfo.cs
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Environment settings
+*.env
+*.env.*
+
+# OS-specific
+Thumbs.db
+Desktop.ini
+
+# Ignore NuGet generated files
+*.nuget.dgspec.json
+*.nuget.props
+*.nuget.targets
